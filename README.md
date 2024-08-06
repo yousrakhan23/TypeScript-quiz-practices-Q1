@@ -1,0 +1,1 @@
+# TypeScript-quiz-practices-Q1
